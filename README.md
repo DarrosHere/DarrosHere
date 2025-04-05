@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew!
 
-<!--
-**DarrosHere/DarrosHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A beginner frontend developer on a mission to turn caffeine into code.  
+🚀 Currently learning JavaScript, React, and how to center a `div` without losing my sanity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔭 Focused on **JavaScript**, **HTML**, **CSS**, and **React**.
+- 🧪 I love experimenting with UI... and occasionally breaking everything.
+- 🎯 Goal: Become a frontend wizard (React Gandalf, maybe?).
+- 🛠️ Building projects that *sometimes* work on the first try!
+
+---
+
+## 🧰 Tech Stack
+
+| Technology | Status       |
+|------------|--------------|
+| HTML/CSS   | ✅ Comfortable |
+| JavaScript | ✅ Comfortable |
+| React      | 🔄 Improving   |
+| Git/GitHub | 🐣 Beginner    |
+
+---
+
+## 🚧 Projects (WIP)
+
+| Project | Description                        | Status     |
+|--------|------------------------------------|------------|
+| 🌍 GeoGuess Clone | Guess the location based on a map |⚙️ In progress  |
+| 🏦 Web Bank (Uncharted Zone) | Financial chaos        |✅ Ready        |
+
+---
+
+
+- GitHub Stars ⭐ — help feed my motivation!
+
+---
+
+
