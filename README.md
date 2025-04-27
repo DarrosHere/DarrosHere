@@ -27,11 +27,11 @@
 
 ## 🚧 Projects (WIP)
 
-| Project | Description                        | Status     |
-|--------|------------------------------------|------------|
-| 🌍 GeoGuess Clone | Guess the location based on a map |⚙️ In progress  |
-| 🏦 Web Bank (Uncharted Zone) | Financial chaos        |✅ Ready        |
-
+| Project                      | Description                              | Status         |
+|------------------------------|------------------------------------------|----------------|
+| 🌍 GeoGuess Clone            | Guess the location based on a map        | ⚙️ In progress |
+| 🏦 Web Bank (Uncharted Zone) | Financial chaos                          | ✅ Ready       |
+| 🎬 TikTak                    | TikTok-like video recommendation app     | ✅ Ready       |
 ---
 
 
